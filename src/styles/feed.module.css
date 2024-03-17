@@ -1,0 +1,27 @@
+.feedContainer{
+  margin: 0;
+  padding: 0;
+    background-color:#EEE9DA ;
+
+  
+}
+.watchListTable{
+    border-collapse: collapse;
+}
+.watchListTable th {
+    background-color: #91C8E4;
+    font-weight: bold;
+  }
+
+  .watchListTable tr:nth-child(even) {
+    background-color: #F6F4EB;
+  }
+
+  .watchListTable tr:hover {
+    background-color: #F6F4EB;
+  }
+  .overFlow{
+    overflow: auto;
+    max-height: 250px;
+    text-overflow: ellipsis;
+}

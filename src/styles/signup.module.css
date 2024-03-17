@@ -1,0 +1,10 @@
+.container{
+    background-image:url("../assets/images/backgroundLogin.jpg") ;
+     background-size: cover;
+ }
+.signup_card{
+     background-color: #ADD8E6;
+ }
+ .noUnderline{
+    text-decoration: none;
+ }

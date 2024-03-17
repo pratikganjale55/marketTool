@@ -1,0 +1,11 @@
+.news_container{
+    background-color: #EEE9DA;
+}
+.item {
+    cursor: pointer;
+   
+}
+.item:hover{
+    background-color:#EEE9DA ;
+    color: #4682A9;
+}
